@@ -31,7 +31,7 @@ export default function Home() {
                           <h1 className="title">The Change Agent</h1>
                         </dt>
                         <div className="text">
-                          <p>A student of the world, your mantra is 'never stop growing.' You’re always looking for a chance to ignite change in the world around you.</p>
+                          <p>A student of the world, your mantra is &apos;never stop growing&apos; You’re always looking for a chance to ignite change in the world around you.</p>
                         </div>
                       </dl>
                     </div>
