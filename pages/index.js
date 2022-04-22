@@ -102,6 +102,8 @@ export default function Home() {
   const formRef = useRef(null);
 
   useEffect( () => {
+    window.history.scrollRestoration = 'manual'
+    
     const body = document.querySelector("body")
     body.classList.add("overflow-hidden")
 
